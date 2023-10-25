@@ -1,4 +1,6 @@
 # Equity AMSA
+This repository contains annotations and codes for reconstituting the Equity-AMSA dataset by extracting content from the original reports and merging it with annotations.
+
 ## Usage
 1. Install the required package: PyMuPDF==1.20.2
 
